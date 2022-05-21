@@ -55,7 +55,7 @@ p{
     display: block;
     max-width: 640px;
     position: flex;
-    padding-left: 200px;
+    padding-left: 40px;
     color: red;
 }
 #sub{
@@ -87,23 +87,23 @@ p{
     max-width: 640px;
     width:300px;
     height:200px;
-    padding-left: 150px;
+    padding-left: 30px;
 }
 #local{
     display: block;
     max-width: 640px;
     width: 450px;
-    padding-left: 100px;
+    padding-left: 10px;
 }
 #admin{
     display: block;
     max-width: 640px;
     width: 500px;
-    padding-left: 80px;
+    padding-left: 10px;
 }
 #aberto{
     display: block;
     max-width: 640px;
     width: 500px;
-    padding-left: 80px;
+    
 }
